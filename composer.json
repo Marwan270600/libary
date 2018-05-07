@@ -11,7 +11,7 @@
 
     "autoload": {
         "psr-4": {
-            "HTL3R\\Balls": "src/"
+            "HTL3R\\Balls\\": "src/"
         }
     },
 
