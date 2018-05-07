@@ -1,7 +1,6 @@
 <?php
 
-namespace HTL3R\Balls\Interfaces;
-
+namespace marwan\libary;
 interface BallInterface
 {
     public function getVolumen() : float;

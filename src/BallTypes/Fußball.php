@@ -7,9 +7,8 @@
  */
 
 
-namespace HTL3R\Balls\BallTypes;
+namespace marwan\libary;
 //interface eibinden
-use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
 //include "../Interfaces/BallIinterface.php";
 
 

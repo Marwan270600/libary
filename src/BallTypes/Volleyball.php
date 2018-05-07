@@ -6,9 +6,7 @@
  * Time: 23:12
  */
 
-namespace HTL3R\Balls\BallTypes;
-use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
-
+namespace marwan\libary;
 
 class Volleyball extends AbstractBall implements BallInterface
 {

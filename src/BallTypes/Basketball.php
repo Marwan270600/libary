@@ -6,8 +6,7 @@
  * Time: 23:11
  */
 
-namespace HTL3R\Balls\BallTypes;
-use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
+namespace marwan\libary;
 
 
 class Basketball extends AbstractBall implements BallInterface

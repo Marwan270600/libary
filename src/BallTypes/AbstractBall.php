@@ -1,5 +1,5 @@
 <?php
-namespace HTL3R\Balls\Balltypes;
+namespace marwan\libary;
 
     //include "../Interfaces/BallIinterface.php";
     //use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
