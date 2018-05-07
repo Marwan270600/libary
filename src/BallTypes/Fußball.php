@@ -15,7 +15,7 @@ require_once  "Baelle\BallTypes\AbstractBall.php";
 include  "Baelle\BallTypes\AbstractBall.php";
 
 
-class Ball extends AbstractBall implements BallInterface{
+class Fußball extends AbstractBall implements BallInterface{
     /**
      * @return float
      */
