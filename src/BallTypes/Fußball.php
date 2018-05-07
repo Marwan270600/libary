@@ -7,12 +7,11 @@
  */
 
 
-namespace Baelle\BallTypes;
+namespace HTL3R\Balls\BallTypes;
 //interface eibinden
-use Baelle\Interfaces\BallInterface as BallInterface;
+use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
+//include "../Interfaces/BallIinterface.php";
 
-require_once  "Baelle\BallTypes\AbstractBall.php";
-include  "Baelle\BallTypes\AbstractBall.php";
 
 
 class Fußball extends AbstractBall implements BallInterface{

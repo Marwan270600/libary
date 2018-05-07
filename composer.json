@@ -1,0 +1,19 @@
+{
+    "name": "marwan/libary",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Marwan",
+            "email": "4160@htl.rennweg.at"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "HTL3R\\Balls": "src/"
+        }
+    },
+
+    "require": {}
+}

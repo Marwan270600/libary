@@ -1,6 +1,6 @@
 <?php
 
-namespace Baelle\Interfaces;
+namespace HTL3R\Balls\Interfaces;
 
 interface BallInterface
 {

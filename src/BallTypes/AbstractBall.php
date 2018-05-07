@@ -1,8 +1,8 @@
 <?php
-namespace Baelle\BallTypes;
+namespace HTL3R\Balls\Balltypes;
 
-    include "Baelle/Interfaces/BallIinterface.php";
-    use Baelle\Interfaces\BallInterface as BallInterface;
+    //include "../Interfaces/BallIinterface.php";
+    //use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
 
     abstract class AbstractBall implements BallInterface {
         public $name;
